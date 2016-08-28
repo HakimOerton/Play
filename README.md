@@ -1,2 +1,3 @@
 # Play
-Place for learning Jekyl and who knows what
+
+Hakim's place for learning Git, Jekyl and who knows what else ...
